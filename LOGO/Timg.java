@@ -1,14 +1,10 @@
 package LOGO;
-
-import java.util.*;
-import java.io.File;
-import ColourPKG.ANSI;
-import java.io.FileNotFoundException; 
 public class Timg {
     public static void logo()
     {
+		/*
 		try{
-		File file = new File("/home/kali/ISA/LOGO.txt"); 
+		//File file = new File("/home/kali/ISA/LOGO.txt"); 
 		Scanner sc = new Scanner(file); 
   
 		while (sc.hasNextLine())
@@ -34,7 +30,7 @@ public class Timg {
 	catch(FileNotFoundException e)
 	{
 		System.exit(0);
-	}
+	}*/
 }
     
 }
